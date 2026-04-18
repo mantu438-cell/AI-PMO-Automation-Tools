@@ -1,0 +1,9 @@
+AI-Driven Project Management Office (PMO)
+This repository demonstrates how I use Gemini 3 and Google AI Studio to solve real-world delivery bottlenecks.
+
+Project 1: Meeting-to-Artifact Agent
+Problem: PMs spend 5+ hours a week manual-coding meeting notes into Jira.
+
+Solution: I built a custom system instruction that extracts RAID Logs and Acceptance Criteria with 90% accuracy.
+
+Tools: Google AI Studio, Python, Gemini API.
