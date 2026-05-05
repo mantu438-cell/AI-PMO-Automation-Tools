@@ -1,9 +1,11 @@
-AI-Driven Project Management Office (PMO)
-This repository demonstrates how I use Gemini 3 and Google AI Studio to solve real-world delivery bottlenecks.
+# 🚀 AI-PMO Automation Tools
+A collection of AI agents built in Google AI Studio to automate PMO governance and project delivery.
 
-Project 1: Meeting-to-Artifact Agent
-Problem: PMs spend 5+ hours a week manual-coding meeting notes into Jira.
+### 📈 Business Value
+* **Efficiency:** Automates repetitive governance tasks like RAID log updates and MOM drafting.
+* **Speed:** Leverages Google AI Studio to process project data faster than manual entry.
+* **Consistency:** Ensures standardized reporting formats across cross-functional teams.
 
-Solution: I built a custom system instruction that extracts RAID Logs and Acceptance Criteria with 90% accuracy.
-
-Tools: Google AI Studio, Python, Gemini API.
+### 🛠️ Core Features
+* **PMO Agent:** A Python-based agent (`pmo_agent.py`) designed to handle project queries and status tracking.
+* **Governance Automation:** Built-in logic to assist with Agile ceremonies and sprint health checks.
